@@ -1,0 +1,54 @@
+body {
+    height: 600px;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  form {
+    padding: 20px;
+    margin: 5px;
+    height: 5%;
+  }
+  .input {
+    margin: 2px;
+    width: 250px;
+    border: 8px solid green;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    margin: 2px;
+    padding: 1px;
+    border-radius: 3px;
+    color: white;
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    background-color: green;
+  }
+  
+  table,
+  th,
+  tr,
+  td {
+    margin-left: 22px;
+    padding: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 840px;
+    background-color: orange;
+    border: 5px solid white;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
+  
+  .bt{
+     background-color:blue;
+     width: 150px;
+     height: 30px;
+     color: white;
+     border-width: 0px;
+     border-radius: 3px;
+  }
